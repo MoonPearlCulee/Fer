@@ -4,7 +4,7 @@ import Layout from 'C:/ICC_SEMESTRES/ICCSEMESTREVIII/Desarrollo de apps web/No1/
 const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
-      <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
+      <p>Hola miamor </p>
     </Layout>
   )
 }
