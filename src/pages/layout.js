@@ -6,7 +6,7 @@ import {
   navLinks,
   navLinkItem,
   navLinkText
-} from 'C/ICC_SEMESTRES/ICCSEMESTREVIII/Desarrollodeappsweb/No1/No1/src/components/layout.module.css'
+} from '/components/layout.module.css'
 
 const Layout = ({ pageTitle, children }) => {
   return (
