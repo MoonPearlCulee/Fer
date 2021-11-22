@@ -1,5 +1,5 @@
 import * as React from 'react'
-import Layout from 'C:/ICC_SEMESTRES/ICCSEMESTREVIII/Desarrollo de apps web/No1/No1/src/pages/layout'
+import Layout from "C:/ICC_SEMESTRES/ICCSEMESTREVIII/Desarrollodeappsweb/No1/No1/src/pages/layout"
 
 const AboutPage = () => {
   return (
