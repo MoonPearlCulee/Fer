@@ -18,7 +18,6 @@ const Layout = ({ pageTitle, children }) => {
       }
     }
   }
-  
   `)
   //console.log(data);
   return (

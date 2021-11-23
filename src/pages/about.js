@@ -6,10 +6,14 @@ const AboutPage = () => {
     <Layout pageTitle="About Me">
       <p>El acerca de con todos mis datos.
         Me llamo Fernando y vivo en Morelos uwuwuwu
-        Hola Maribel.
       </p>
+      <p>Esta es mi gatita y se llama Veres</p>
       <StaticImage
-      src= "C:/Veres/Veres.jpg"
+      src= "../images/Veres.jpg"
+      />
+      <p>Y esta es Veres de bb</p>
+      <StaticImage
+      src= "../images/Veresbb.jpg"
       />
     </Layout>
   )
