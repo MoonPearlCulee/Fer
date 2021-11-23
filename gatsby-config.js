@@ -3,12 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "MiPrimeraPagina",
   },
-  plugins: [],
+  plugins: ["gatsby-plugin-gatsby-cloud", "gatsby-plugin-image", "gatsby-plugin-sharp",],
 };
-module.exports = {
-  plugins: [
-    `gatsby-plugin-image`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`, // Needed for dynamic images
-  ],
-}
