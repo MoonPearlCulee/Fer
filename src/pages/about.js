@@ -4,7 +4,9 @@ import Layout from './layout.js'
 const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
-      <p>Hola miamor </p>
+      <p>El acerca de con todos mis datos.
+        Me llamo Fernando y vivo en Morelos uwuwuwu
+      </p>
     </Layout>
   )
 }
