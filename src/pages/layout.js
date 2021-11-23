@@ -39,6 +39,46 @@ const Layout = ({ pageTitle, children }) => {
             </Link>
           </li>
           <li className={navLinkItem}>
+            <Link to="/country" className={navLinkText}>
+              Country
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/folk" className={navLinkText}>
+              Folk
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/indie" className={navLinkText}>
+              Indie
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/rock" className={navLinkText}>
+              Rock
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/alternative" className={navLinkText}>
+              Alternativo
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/ranchera" className={navLinkText}>
+              Ranchera
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/rap" className={navLinkText}>
+              Rap
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/hiphop" className={navLinkText}>
+              HipHop
+            </Link>
+          </li>
+          <li className={navLinkItem}>
             <Link to="/about" className={navLinkText}>
               About
             </Link>
