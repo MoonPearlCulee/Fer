@@ -5,6 +5,7 @@ const PopPage = () => {
   return (
     <Layout pageTitle="Pop">
       <p>Albumes Pop</p>
+      <p>Cowboy like me</p>
       <StaticImage
       alt="Mirrorball"
       height = "200px"
