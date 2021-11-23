@@ -1,7 +1,7 @@
 import * as React from 'react'
 import Layout from './layout.js'
 import { StaticImage } from "gatsby-plugin-image"
-const IndexPage = () => {
+const HipHopPage = () => {
   return (
     <Layout pageTitle="HipHop">
       <p>Albumes Pop</p>
