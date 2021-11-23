@@ -17,3 +17,8 @@
   .nav-link-text {
     color: black;
   }
+  .siteTitle{
+    font-size: 3rem;
+    color: violet;
+    font-weight: 700;
+  }
