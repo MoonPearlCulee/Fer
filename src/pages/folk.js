@@ -12,4 +12,5 @@ const FolkPage = () => {
     </Layout>
   )
 }
+
 export default FolkPage

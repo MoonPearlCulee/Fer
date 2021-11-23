@@ -9,6 +9,7 @@ const RancheraPage = () => {
       <StaticImage
       alt="Chico Vaca como yo"
       src="https://poptaim.com/wp-content/uploads/2020/11/bkbk-900x600.jpg"
+      width ="500px"
       />
     </Layout>
   )
