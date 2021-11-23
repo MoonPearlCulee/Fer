@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "Tienda de musica",
   },
-  plugins: [  "gatsby-plugin-image", "gatsby-plugin-sharp","gatsby-source-filesystem"],
+  plugins: [  "gatsby-plugin-image", "gatsby-plugin-sharp",],
 };
