@@ -13,4 +13,4 @@ const IndexPage = () => {
     </Layout>
   )
 }
-export default RyBPage
+export default RybPage
