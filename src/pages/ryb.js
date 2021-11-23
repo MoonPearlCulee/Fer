@@ -8,7 +8,7 @@ const IndexPage = () => {
       Alexis Mateo
       <StaticImage
       alt="????"
-      src="https://preview.redd.it/xzcydo5pk6g21.gif?format=png8&s=309d39524be71db2aaae8cd3364343720bad29c3"
+      src="https://i.pinimg.com/736x/2a/24/0b/2a240b0825162ec1d025d2b2e09ed9e3.jpg"
       />
     </Layout>
   )
